@@ -1,12 +1,12 @@
 # GrocerryApplication
 just download the app and place your order in a matter of minutes.
 
+Login Page:
 
-Login Page: 
 <a href="https://imgflip.com/i/3pjctv"><img src="https://i.imgflip.com/3pjctv.jpg" title="made at imgflip.com"/></a>
 
-
 Checking ZipCode: 
+
 <a href="https://imgflip.com/i/3pje50"><img src="https://i.imgflip.com/3pje50.jpg" title="made at imgflip.com"/></a>
 
 
